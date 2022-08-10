@@ -1,0 +1,14 @@
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.exe
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.deps.json
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.json
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.dev.json
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfo.cs
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\seila\Desktop\Repos\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.genruntimeconfig.cache
